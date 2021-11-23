@@ -14,13 +14,12 @@
    - Java EE (Servlet & JSP, JPA [Hibernate], JSONB)
    - Tomcat
    - Java SE (JDBC, IO, NIO, Logging, Serialization, Reflection API), Junit
-   - SLF4J, Maven, Gradle, MapStruct, Lombok, Postman
-   - Angular (NgBootstrap, Angular Material), RxJS
+   - Maven, Postman
+   - Angular (NgBootstrap, Angular Material)
    - NPM
    - GIT
    - jQuery, Bootstrap, Webpack, BrowserSync
    - MySQL
-   - OAuth2, JWT
 
 
 <!--
