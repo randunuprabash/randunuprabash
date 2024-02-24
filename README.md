@@ -9,17 +9,18 @@
 
 ###### Tech Stack:
 
+   - AWS, Azure
+   - Docker, kubernetes
+   - WSO2 MI, APMI, IS
+   - Jenkins
+   - ELK, Zabbix
    - Spring Framework (Core, Web, DataAccess, AOP, SpEL), Spring Boot, Spring Data JPA
-   - Native Hibernate
    - Java EE (Servlet & JSP, JPA [Hibernate], JSONB)
-   - Tomcat
    - Java SE (JDBC, IO, NIO, Logging, Serialization, Reflection API), Junit
-   - Maven, Postman
+   - Maven,Gradle
    - Angular (NgBootstrap, Angular Material)
-   - NPM
-   - GIT
-   - jQuery, Bootstrap, Webpack, BrowserSync
-   - MySQL
+   - GIT, GitHub
+   - MySql, Redis
 
 
 <!--
